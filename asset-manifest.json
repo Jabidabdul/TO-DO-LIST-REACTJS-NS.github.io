@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TO-DO-LIST-REACTJS-NS.github.io/static/css/main.b0816763.chunk.css",
+    "main.js": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/main.73b750e4.chunk.js",
+    "main.js.map": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/main.73b750e4.chunk.js.map",
+    "runtime-main.js": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/runtime-main.c2d1e0c3.js",
+    "runtime-main.js.map": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/runtime-main.c2d1e0c3.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/TO-DO-LIST-REACTJS-NS.github.io/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.5c61b66f.chunk.js": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/2.5c61b66f.chunk.js",
+    "static/js/2.5c61b66f.chunk.js.map": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/2.5c61b66f.chunk.js.map",
+    "static/js/3.a1b449ae.chunk.js": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/3.a1b449ae.chunk.js",
+    "static/js/3.a1b449ae.chunk.js.map": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/3.a1b449ae.chunk.js.map",
+    "index.html": "/TO-DO-LIST-REACTJS-NS.github.io/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/TO-DO-LIST-REACTJS-NS.github.io/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.b0816763.chunk.css.map": "/TO-DO-LIST-REACTJS-NS.github.io/static/css/main.b0816763.chunk.css.map",
+    "static/js/2.5c61b66f.chunk.js.LICENSE.txt": "/TO-DO-LIST-REACTJS-NS.github.io/static/js/2.5c61b66f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d1e0c3.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.5c61b66f.chunk.js",
+    "static/css/main.b0816763.chunk.css",
+    "static/js/main.73b750e4.chunk.js"
+  ]
+}
